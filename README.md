@@ -1,4 +1,4 @@
-# Julius source supported arm64(aarch64)
+# [Julius](https://julius.osdn.jp/index.php) source supported arm64(aarch64)
 
 Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine
 ==========================================================================
