@@ -1,3 +1,5 @@
+# Julius source supported arm64(aarch64)
+
 Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine
 ==========================================================================
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2530396.svg)](https://doi.org/10.5281/zenodo.2530396)
