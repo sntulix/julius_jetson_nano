@@ -1,5 +1,7 @@
 # [Julius](https://julius.osdn.jp/index.php) source supported arm64(aarch64)
 
+Julius は，音声認識システムの開発・研究のためのオープンソースの高性能な汎用大語彙連続音声認識エンジンです． 数万語彙の連続音声認識を一般のPCやスマートフォン上でほぼ実時間で実行できる軽量さとコンパクトさを持っています．※[大語彙連続音声認識エンジン Julius - What's Julius?](https://julius.osdn.jp/index.php)より
+
 Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine
 ==========================================================================
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2530396.svg)](https://doi.org/10.5281/zenodo.2530396)
